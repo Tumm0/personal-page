@@ -1,0 +1,44 @@
+body {
+  background-color: #FFFBE6;
+  font-family: Impact, Charcoal, sans-serif;
+  text-align: center;
+
+}
+
+hr {
+
+  color: #FFDD92;
+  border-style: dotted none none none;
+  border-top-width: 8px;
+  width: 5%;
+}
+
+
+
+
+h1 {
+  color: #B82F0C;
+  text-align: center;
+}
+h2, h3, h4, h5, h6 {
+  color: #04476F;
+  text-align: center;
+}
+
+
+
+
+p {
+  color: #04476F;
+
+}
+
+a {
+  text-decoration: none;
+  color: #B82F0C;
+}
+
+table {
+  color: #04476F;
+  background-color: #FFF4D2;
+}
